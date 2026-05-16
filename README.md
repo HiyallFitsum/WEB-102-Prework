@@ -30,7 +30,7 @@ All games
 Video Walkthrough
 Here’s a walkthrough of implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/8zIUe5x)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/8zIUe5x.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 Notes
