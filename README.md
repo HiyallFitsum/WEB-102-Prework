@@ -7,7 +7,6 @@ Sea Monster Crowdfunding is a web app that displays a list of crowdfunded games,
 
 Time spent: 3 hours spent in total
 
-Required Features
 The following required functionality is completed:
 
 [x] Display all games on the page using dynamically generated game cards
