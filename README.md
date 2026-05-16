@@ -13,13 +13,7 @@ The following required functionality is completed:
 
 [x] Show summary statistics (total contributions, total amount raised, number of games)
 
-[x] Filter buttons to show:
-
-Unfunded games only
-
-Funded games only
-
-All games
+[x] Filter buttons to show: Unfunded games only, Funded games only, All games
 
 [x] Dynamic description section showing how many games remain unfunded
 
