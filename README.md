@@ -23,9 +23,8 @@ The following required functionality is completed:
 Video Walkthrough
 Here’s a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/8zIUe5x.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video src="https://i.imgur.com/8zIUe5x.mp4" width="400" controls> Your browser does not support the video. </video>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/3CQCBfh" data-context="false" ><a href="//imgur.com/a/3CQCBfh"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 Notes
