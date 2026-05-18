@@ -23,9 +23,7 @@ The following required functionality is completed:
 Video Walkthrough
 Here’s a walkthrough of implemented features:
 
-<video src="https://i.imgur.com/8zIUe5x.mp4" width="400" controls> Your browser does not support the video. </video>
-
-
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:62.5%;position:relative;"><iframe width="360" height="225" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/as210k"></iframe></div><p><a href="https://imgflip.com/gif/as210k">via Imgflip</a></p></div>
 
 Notes
 The biggest challenge was debugging small logic errors (like a typo in the reduce function) that prevented parts of the page from rendering. Once those were fixed, the filtering, statistics, and top‑games features all came together very well.
