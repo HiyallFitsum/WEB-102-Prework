@@ -25,6 +25,8 @@ Here’s a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/8zIUe5x.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/3CQCBfh" data-context="false" ><a href="//imgur.com/a/3CQCBfh"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 Notes
 The biggest challenge was debugging small logic errors (like a typo in the reduce function) that prevented parts of the page from rendering. Once those were fixed, the filtering, statistics, and top‑games features all came together very well.
