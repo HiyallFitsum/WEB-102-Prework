@@ -19,7 +19,6 @@ The following **optional** features are implemented:
 
 * [X] I added a fallback message for when all games are funded, which wasn’t required but makes the user experience smoother.
 * [X] I chose semantic "h2" elements for the top games to improve structure and accessibility, even though the directions didn’t specify which tag to use.
-* [ ] 
 * [X] I used toLocaleString() consistently across all numbers to improve readability, even though the directions only mentioned using it once.
 ## Video Walkthrough
 Here's a walkthrough of implemented features:
